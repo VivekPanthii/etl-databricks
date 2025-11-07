@@ -94,7 +94,7 @@ It automates ingestion, transformation, and modeling of structured business data
 ```
 crm_erp_pipeline/
 │
-├── dlt_pipeline.py        # Main DLT pipeline script (this file)
+├── dlt_pipeline.py        # Main DLT pipeline script
 ├── README.md              # Documentation (you’re reading this)
 │
 ├── data/
